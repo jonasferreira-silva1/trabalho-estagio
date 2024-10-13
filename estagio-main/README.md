@@ -13,5 +13,5 @@ Este projeto é um sistema de gerenciamento de pets desenvolvido para auxiliar v
 
 - Linguagem de Programação: Java
 - Frameworks: Spring Boot, Hibernate
-- Banco de Dados: MySQL
+- Banco de Dados: PostegreSQL
 - Documentação: Swagger
